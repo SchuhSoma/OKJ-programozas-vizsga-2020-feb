@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\bin\Debug\Balkezesek.exe.config
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\bin\Debug\Balkezesek.exe
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\bin\Debug\Balkezesek.pdb
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\obj\Debug\Balkezesek.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\obj\Debug\Balkezesek.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\obj\Debug\Balkezesek.exe
+C:\Users\Soma\Documents\C#2\Balkezesek\Balkezesek\obj\Debug\Balkezesek.pdb
